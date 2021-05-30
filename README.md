@@ -3,8 +3,17 @@
 Ultra wide band (UWB) Indoor Positioning system. Signal processing
 Jan 2017 – Dec 2018
 
-In the context of the signal processing course.
+UCLouvain, Master Student
 
-Ultra wide band positioning and tracking of an object in an indoor environement using TDOA, Hand crafted Outliers sorting algorithm, and signal processing
+Project: Ultra wide band (UWB) indoor positioning system.
+
+Project in the scope of the course of signal processing from UCLouvain. 
+
+Tasks: The goal was to track the position of a transmitter indoor, surrounded by 5 receivers. The received signals and the original signal were provided, We had to recreate the path the transmitter made over time and compare it to its real track.
+The signals were provided to us as well as a laser tracking of the actual positions.
+The goal was to perform signal processing and correlation to be able to track the object via time difference of arrival (TDOA). All the code for signal processing had to be hand made and written on Matlab.
+
+Result: We managed to implement an Ultra-wide band positioning and tracking of an object in an indoor environment using TDOA, Hand crafted Outliers sorting algorithm, and signal processing methods.
+
 
 The report and slide are available on Github (In French), Coded in MATLAB. Code included in the report Pdf.
