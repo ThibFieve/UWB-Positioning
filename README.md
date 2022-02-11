@@ -21,7 +21,7 @@ __Tasks:__ The goal was to track the position of an indoor transmitter, surround
 The signals were provided to us as well as a laser tracking of the actual positions.
 The goal was to perform signal processing and correlation to be able to track the object via time difference of arrival (TDOA). All the code for signal processing had to be hand made and written on Matlab.
 
-__Result:__ We managed to implement an ultra-wide band positioning and tracking of an object in an indoor environment using TDOA, hand crafted outliers sorting algorithm, and signal processing methods.
+__Result:__ We managed to implement an ultra-wide band positioning and tracking of an object in an indoor environment using TDOA, handcrafted outliers sorting algorithm, and signal processing methods.
 
 
 *The report and slide are available on Github (In French), coded in MATLAB. Code included in the report Pdf.*
